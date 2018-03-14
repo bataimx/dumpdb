@@ -1,0 +1,7 @@
+{
+	"database": "test_dumpdb",
+	"host": "localhost",
+	"user": "root",
+	"password": "vertrigo",
+	"dest": "backup/"
+}
